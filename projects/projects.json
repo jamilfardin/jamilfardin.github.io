@@ -2,7 +2,7 @@
   {
     "name": "Fardin IT Company Website",
     "desc": "My own company website. Built using HTML5, XML, CSS3, Firebase, JavaScript, Bootstrap.",
-    "image": "company.png",
+    "image": "company",
     "category": "web",
     "links": {
       "view": "https://fardinupw.github.io",
@@ -12,7 +12,7 @@
   {
     "name": "Real Body Gym Website",
     "desc": "Website for Real Body gym that provide services include: Cardio Exercises, Flex Muscle, Basic Yoga and Weight Lifting. Built using HTML5, CSS3, JavaScript, Bootstrap and etc.",
-    "image": "gym.png",
+    "image": "gym",
     "category": "web",
     "links": {
       "view": "https://fardingym.github.io",
@@ -22,7 +22,7 @@
   {
     "name": "Portfolio Website",
     "desc": "My personal portfolio website.  Built using HTML5, XML, CSS3, Firebase, JavaScript, Bootstrap.",
-    "image": "portfolio.png",
+    "image": "portfolio",
     "category": "web",
     "links": {
       "view": "https://jamilfardin.github.io",
